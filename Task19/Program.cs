@@ -24,3 +24,5 @@ void Palindrome(int num)
     else if (index1 == index5 && index2 == index4) Console.WriteLine($"{num} -> да");
     else Console.WriteLine($"{num} -> нет");
 }
+
+
